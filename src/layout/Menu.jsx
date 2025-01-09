@@ -15,4 +15,4 @@ export function Menu() {
         </main>
       </div>
     )
-  }
+}

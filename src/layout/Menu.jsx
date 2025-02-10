@@ -8,7 +8,7 @@ export function Menu() {
     return (
       <div>
         <header >
-          <MainMenu className={({ isActive }) => isActive ? menu__item-active : undefined}/>
+          <MainMenu />
         </header>
         <main>
           <Outlet />
